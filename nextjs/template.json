@@ -1,0 +1,10 @@
+{
+  "description": "Next.js（App Router）全栈模板：适用于全栈应用、复杂多页面项目。TypeScript + Tailwind CSS v4，bun 作为包管理器；项目结构与规范见模板内 AGENTS.md。",
+  "version": "1.0.0",
+  "commands": {
+    "dev": "bun run dev",
+    "build": "bun run build",
+    "validate": "bun run lint"
+  },
+  "defaultPort": 3000
+}

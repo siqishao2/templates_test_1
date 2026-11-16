@@ -1,0 +1,11 @@
+{
+  "__TEMPLATE_HOME_TITLE__": "Your project is ready",
+  "__TEMPLATE_HOME_INTRO__": "This is the starting page of your new project. You can edit",
+  "__TEMPLATE_HOME_OUTRO__": "to change this page, or keep chatting with AI to build out your project.",
+  "__TEMPLATE_HOME_TIP_CHAT__": "Chat with AI and describe the features you want",
+  "__TEMPLATE_HOME_TIP_STYLE__": "Tweak styles and layout with live preview",
+  "__TEMPLATE_HOME_TIP_PUBLISH__": "Publish online with one click when you're done",
+  "__TEMPLATE_ACCENT_COLOR__": "#a8d239",
+  "__TEMPLATE_ACCENT_INK__": "#10140b",
+  "__TEMPLATE_FAVICON_PATH__": "/favicon-global.ico"
+}

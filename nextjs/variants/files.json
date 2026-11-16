@@ -1,0 +1,11 @@
+{
+  "__TEMPLATE_HOME_TITLE__": "项目已创建成功",
+  "__TEMPLATE_HOME_INTRO__": "这是你的新项目起始页面。你可以直接编辑",
+  "__TEMPLATE_HOME_OUTRO__": "文件来修改这个页面，或者继续与 AI 对话来完善你的项目。",
+  "__TEMPLATE_HOME_TIP_CHAT__": "与 AI 对话，描述你想要的功能",
+  "__TEMPLATE_HOME_TIP_STYLE__": "修改样式和布局，实时预览效果",
+  "__TEMPLATE_HOME_TIP_PUBLISH__": "完成后一键发布到线上",
+  "__TEMPLATE_ACCENT_COLOR__": "#8b5cf6",
+  "__TEMPLATE_ACCENT_INK__": "#ffffff",
+  "__TEMPLATE_FAVICON_PATH__": "/favicon.ico"
+}
